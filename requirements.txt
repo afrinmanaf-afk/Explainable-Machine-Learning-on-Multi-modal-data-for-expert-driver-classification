@@ -1,0 +1,12 @@
+torch>=1.10.0
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+mne
+neurokit2
+pyarrow
+networkx
+tqdm
+openpyxl
